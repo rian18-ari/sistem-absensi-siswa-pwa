@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Siswa PWA",
+  "description": "Aplikasi PWA Sistem Absensi Siswa modern dengan mode offline, sinkronisasi otomatis, peran guru, wali kelas, orang tua, siswa, dan admin sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
